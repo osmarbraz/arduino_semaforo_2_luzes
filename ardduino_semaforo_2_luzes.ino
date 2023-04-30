@@ -1,5 +1,5 @@
 /*
- * Semáforo de 2 luzes
+ * Semáforo de 2 luzes.
  * 
  */
 
@@ -17,7 +17,6 @@ void setup() {
 }
 
 void loop() {	
-	
 	// Aguardamos o tempo definido
 	delay(tempo);
 	
